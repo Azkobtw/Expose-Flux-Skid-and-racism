@@ -35,6 +35,9 @@ We keep receipts. Review the absolute proof of their skidded code, rule-breaking
 
 * Evidence C — <img width="955" height="755" alt="image" src="https://github.com/user-attachments/assets/a2c4df2d-b749-4ab3-9599-2c9ca6e1dfff" /> He put "astro skidd" but he dosent have any proofs or something and he dont assume.
 
+Evidence D - <img width="418" height="356" alt="image" src="https://github.com/user-attachments/assets/728cfa48-ad04-492d-8f1f-bf2f8b9dfae7" /> He is impersonating Astrofn; he posts things to make it look like we are "skids" and to ruin our reputation real tiktok is **@projectastrofn**
+
+
 ## NETWORK DIRECTORY (REAL VS FAKE)
 
 Do not let these frauds trick you into supporting unverified, bootleg forks. 
