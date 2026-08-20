@@ -27,10 +27,13 @@ The following Discord user IDs are permanently flagged for code theft, harassmen
 
 We keep receipts. Review the absolute proof of their skidded code, rule-breaking, and abusive language below:
 
-* Evidence A — Racist Insults & Total Denial: [View Screenshot](https://cdn.discordapp.com/attachments/1540096407309127772/1540096972751642634/NEo9hXF.png) — Proof of their toxic, racist language and their refusal to admit they have no original information or project of their own.
+* Evidence A — Racist Insults & Total Denial: <img width="562" height="109" alt="image" src="https://github.com/user-attachments/assets/e69dad4a-dc2a-4987-96ed-f3295812cae6" />
+ — Proof of their toxic, racist language and their refusal to admit they have no original information or project of their own.
+ 
 * Evidence B — Skidded Commands & Backend Layout: <img width="571" height="397" alt="image" src="https://github.com/user-attachments/assets/9c3b704d-8e7b-4ae2-ab69-3ca92e318984" />
 ) — The explicit command tree and structure cloned directly from OGFN's backend work.
-* Evidence C — Rule Hypocrisy: [View Screenshot](https://cdn.discordapp.com/attachments/1540096407309127772/1540096476477263892/18ihsHL.png) — Proof showing them completely breaking the rules they expect others to follow.
+
+* Evidence C — <img width="955" height="755" alt="image" src="https://github.com/user-attachments/assets/a2c4df2d-b749-4ab3-9599-2c9ca6e1dfff" /> He put "astro skidd" but he dosent have any proofs or something and he dont assume.
 
 ## NETWORK DIRECTORY (REAL VS FAKE)
 
