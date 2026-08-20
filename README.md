@@ -28,7 +28,8 @@ The following Discord user IDs are permanently flagged for code theft, harassmen
 We keep receipts. Review the absolute proof of their skidded code, rule-breaking, and abusive language below:
 
 * Evidence A — Racist Insults & Total Denial: [View Screenshot](https://cdn.discordapp.com/attachments/1540096407309127772/1540096972751642634/NEo9hXF.png) — Proof of their toxic, racist language and their refusal to admit they have no original information or project of their own.
-* Evidence B — Skidded Commands & Backend Layout: [View Screenshot](https://cdn.discordapp.com/attachments/1540096407309127772/1540096819785367582/DFpcxyt.png) — The explicit command tree and structure cloned directly from OGFN's backend work.
+* Evidence B — Skidded Commands & Backend Layout: [View Screenshot](<img width="571" height="397" alt="image" src="https://github.com/user-attachments/assets/9c3b704d-8e7b-4ae2-ab69-3ca92e318984" />)
+) — The explicit command tree and structure cloned directly from OGFN's backend work.
 * Evidence C — Rule Hypocrisy: [View Screenshot](https://cdn.discordapp.com/attachments/1540096407309127772/1540096476477263892/18ihsHL.png) — Proof showing them completely breaking the rules they expect others to follow.
 
 ## NETWORK DIRECTORY (REAL VS FAKE)
