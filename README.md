@@ -1,32 +1,44 @@
-# NOTICE ON INTELLECTUAL PROPERTY THEFT AND UNAUTHORIZED REPACKAGING
+# OFFICIAL INTELLECTUAL PROPERTY VIOLATION & PUBLIC WARNING
 
-This repository serves as a permanent public record regarding the unauthorized extraction, plagiarism, and redistribution of proprietary source code belonging to **Project Astro**, developed exclusively by the **OGFN** team.
+This repository serves as a permanent, public notice regarding the severe intellectual property theft, malicious code-skidding, and toxic harassment committed against Project Astro—developed exclusively by the OGFN team. 
 
-## INCIDENT OVERVIEW
+If you are looking at these individuals, you are looking at intellectual thieves who cannot write their own logic and resort to targeted insults and hate speech when caught.
 
-Certain individuals have copied core architecture elements, command structures, and backend scripts (including specific JavaScript implementations like the better reload sequence) from Project Astro, rebranding them as their own work. 
+## THE INCIDENT & TECHNICAL THEFT DETAILS
 
-In addition to copyright infringement and code theft, these individuals actively violate their own community guidelines regarding harassment, toxic conduct, and racist language when confronted with evidence of their plagiarism.
+These individuals lack the core development skills required to build an original architecture, so they chose to blatantly skid our proprietary source code. 
+* The "Better Reload" Plagiarism: They extracted, copied, and repackaged our custom JavaScript implementation for the "better reload" feature directly out of Project Astro, pretending to their community that they authored it from scratch.
+* Command Structure Hijacking: Core backend command layouts, logic loops, and database structures belonging to OGFN were completely stolen and redeployed in their unauthorized servers.
 
-## TARGETED ACCOUNTS
+## TOXICITY, HYPOCRISY, & HARASSMENT
 
-The following Discord user identifiers are associated with the individuals responsible for this activity and the subsequent denial:
+When confronted with undeniable proof of their code-theft, these users completely broke down. Instead of acting professionally, they:
+* Actively violated their own server's written rules regarding conduct and harassment.
+* Resort to severe toxicity, targeted insults, and raw racist language (including using racial slurs like "nigga") to deflect attention away from their stolen repository. 
 
-* User ID: `1524520271875276914`
-* User ID: `1510266500156493884`
+## TARGETED ACCOUNT IDENTIFIERS
 
-## DOCUMENTED EVIDENCE
-https://i.imgur.com/18ihsHL.png
-https://i.imgur.com/DFpcxyt.png
-https://i.imgur.com/NEo9hXF.png
+The following Discord user IDs are permanently flagged for code theft, harassment, and toxic behavior. Proceed with caution if you interact with them in any development or community spaces:
 
-## NETWORK DIRECTORY
+* User ID 1: `1524520271875276914`
+* User ID 2: `1510266500156493884`
 
-To avoid misinformation or unverified forks, refer exclusively to the official network channels:
+## DOCUMENTED PROOFS & EVIDENCE
 
-* Official Project Astro / OGFN Hub: [Discord Invite](https://discord.gg/astrofn)
-* Unassociated / Unauthorized Distribution Servers: 
-  * [Server Link A](https://discord.gg/BQ5an8QAe)
-  * [Server Link B](https://discord.gg/DuspsddCct)
+We keep receipts. Review the absolute proof of their skidded code, rule-breaking, and abusive language below:
 
-All unauthorized distribution of OGFN proprietary code must cease immediately.
+* Evidence A — Racist Insults & Total Denial: [View Screenshot](https://cdn.discordapp.com/attachments/1540096407309127772/1540096972751642634/NEo9hXF.png) — Proof of their toxic, racist language and their refusal to admit they have no original information or project of their own.
+* Evidence B — Skidded Commands & Backend Layout: [View Screenshot](https://cdn.discordapp.com/attachments/1540096407309127772/1540096819785367582/DFpcxyt.png) — The explicit command tree and structure cloned directly from OGFN's backend work.
+* Evidence C — Rule Hypocrisy: [View Screenshot](https://cdn.discordapp.com/attachments/1540096407309127772/1540096476477263892/18ihsHL.png) — Proof showing them completely breaking the rules they expect others to follow.
+
+## NETWORK DIRECTORY (REAL VS FAKE)
+
+Do not let these frauds trick you into supporting unverified, bootleg forks. 
+
+* The ONLY Official Project Astro / OGFN Hub: [Join the Real Discord Here](https://discord.gg/astrofn)
+* Unauthorized Skid Servers (Avoid & Report):
+  * Skid Server 1: `https://discord.gg/BQ5an8QAe`
+  * Skid Server 2: `https://discord.gg/DuspsddCct`
+
+---
+FINAL NOTICE: Cease all unauthorized redistribution of OGFN code immediately. Formal platform takedowns and escalations will follow if this theft continues. Learn to code your own projects instead of living off ours.
