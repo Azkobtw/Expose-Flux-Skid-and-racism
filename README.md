@@ -6,7 +6,7 @@ This repository serves as a permanent public record regarding the unauthorized e
 
 Certain individuals have copied core architecture elements, command structures, and backend scripts (including specific JavaScript implementations like the better reload sequence) from Project Astro, rebranding them as their own work. 
 
-In addition to copyright infringement and code theft, these individuals actively violate their own community guidelines regarding harassment and toxic conduct when confronted with evidence of their plagiarism.
+In addition to copyright infringement and code theft, these individuals actively violate their own community guidelines regarding harassment, toxic conduct, and racist language when confronted with evidence of their plagiarism.
 
 ## TARGETED ACCOUNTS
 
@@ -17,9 +17,9 @@ The following Discord user identifiers are associated with the individuals respo
 
 ## DOCUMENTED EVIDENCE
 
-* Evidence A: [Refusal to acknowledge code origin and hostile response](https://i.imgur.com/NEo9hXF.png)
-* Evidence B: [Replicated backend commands and structure matching Project Astro](https://i.imgur.com/DFpcxyt.png)
-* Evidence C: [Direct contradiction of internal server rules](https://i.imgur.com/18ihsHL.png)
+* Evidence A: [Racist insults, toxicity, and refusal to acknowledge code origin](https://cdn.discordapp.com/attachments/1540096407309127772/1540096972751642634/NEo9hXF.png)
+* Evidence B: [Replicated backend commands and structure matching Project Astro (Skid proof)](https://cdn.discordapp.com/attachments/1540096407309127772/1540096819785367582/DFpcxyt.png)
+* Evidence C: [Direct contradiction of internal server rules](https://cdn.discordapp.com/attachments/1540096407309127772/1540096476477263892/18ihsHL.png)
 
 ## NETWORK DIRECTORY
 
