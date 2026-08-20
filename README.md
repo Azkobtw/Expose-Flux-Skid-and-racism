@@ -16,10 +16,9 @@ The following Discord user identifiers are associated with the individuals respo
 * User ID: `1510266500156493884`
 
 ## DOCUMENTED EVIDENCE
-
-* Evidence A: [Racist insults, toxicity, and refusal to acknowledge code origin](https://cdn.discordapp.com/attachments/1540096407309127772/1540096972751642634/NEo9hXF.png)
-* Evidence B: [Replicated backend commands and structure matching Project Astro (Skid proof)](https://cdn.discordapp.com/attachments/1540096407309127772/1540096819785367582/DFpcxyt.png)
-* Evidence C: [Direct contradiction of internal server rules](https://cdn.discordapp.com/attachments/1540096407309127772/1540096476477263892/18ihsHL.png)
+https://i.imgur.com/18ihsHL.png
+https://i.imgur.com/DFpcxyt.png
+https://i.imgur.com/NEo9hXF.png
 
 ## NETWORK DIRECTORY
 
